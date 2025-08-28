@@ -18,7 +18,7 @@
         "name": "Personal AI Assistant",
         "description": "An open source AI assistant to help users manage tasks, smart reminders, and location-based alerts through natural language interaction.",
         "webpageUrl": {
-          "url": "",
+          "url": "not yet hosted . the prototype of project is being developed",
           "wellKnown": ""
         },
         "repositoryUrl": {
@@ -98,4 +98,5 @@
       ]
     }
   }
+
   
