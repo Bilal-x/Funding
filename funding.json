@@ -13,14 +13,17 @@
       }
     },
     "projects": [
-      {
-        "guid": "personal-ai-assistant",
-        "name": "Personal AI Assistant",
-        "description": "An open source AI assistant to help users manage tasks, smart reminders, and location-based alerts through natural language interaction.",
-        "webpageUrl": {
-          "url": "not yet hosted . the prototype of project is being developed. we need your support to develop the project.",
-          "wellKnown": ""
-        },
+  {
+    "guid": "personal-ai-assistant",
+    "name": "Personal AI Assistant",
+    "description": "An open source AI assistant to help users manage tasks, smart reminders, and location-based alerts through natural language interaction.",
+    "webpageUrl": {
+      "url": "https://example.com/personal-ai-assistant",
+      "wellKnown": ""
+    }
+  }
+]
+
         "repositoryUrl": {
           "url": "",
           "wellKnown": ""
@@ -100,4 +103,5 @@
   }
 
   
+
 
