@@ -1,107 +1,100 @@
 {
-    "version": "v1.0.0",
-    "entity": {
-      "type": "group",
-      "role": "President",
-      "name": "GLUG (Gnu/Linux Users Group) PACE (P A College of Engineering)",
-      "email": "glug@pace.edu.in",
-      "phone": "",
-      "description": "A passionate group of developers focused on building open source solutions to improve daily productivity and personal task management through AI-powered applications.",
-      "webpageUrl": {
-        "url": "https://glugpace.org",
-        "wellKnown": ""
-      }
-    },
-    "projects": [
-  {
-    "guid": "personal-ai-assistant",
-    "name": "Personal AI Assistant",
-    "description": "An open source AI assistant to help users manage tasks, smart reminders, and location-based alerts through natural language interaction.",
+  "version": "v1.0.0",
+  "entity": {
+    "type": "group",
+    "role": "President",
+    "name": "GLUG (Gnu/Linux Users Group) PACE (P A College of Engineering)",
+    "email": "glug@pace.edu.in",
+    "phone": "",
+    "description": "A passionate group of developers focused on building open source solutions to improve daily productivity and personal task management through AI-powered applications.",
     "webpageUrl": {
-      "url": "https://example.com/personal-ai-assistant",
+      "url": "https://glugpace.org",
       "wellKnown": ""
     }
-  }
-]
-
-        "repositoryUrl": {
-          "url": "",
-          "wellKnown": ""
-        },
-        "licenses": [
-          "spdx:MIT"
-        ],
-        "tags": [
-          "ai",
-          "personal-assistant",
-          "reminders",
-          "productivity",
-          "machine-learning",
-          "geolocation",
-          "task-management"
-        ]
-      }
-    ],
-    "funding": {
-      "channels": [
-        {
-          "guid": "mainbank",
-          "type": "bank",
-          "address": "Account: 3518120000045 (Branch: Manjeshwaram, IFSC: CNRB0003518)",
-          "description": "Bank transfers accepted. Please reach out for details."
-        },
-        {
-          "guid": "phonepe",
-          "type": "UPI ID",
-          "address": "8088787427-2@ibl",
-          "description": "Support us through Phonepe donations."
-        }
+  },
+  "projects": [
+    {
+      "guid": "personal-ai-assistant",
+      "name": "Personal AI Assistant",
+      "description": "An open source AI assistant to help users manage tasks, smart reminders, and location-based alerts through natural language interaction.",
+      "webpageUrl": {
+        "url": "https://example.com/personal-ai-assistant",
+        "wellKnown": ""
+      },
+      "repositoryUrl": {
+        "url": "",
+        "wellKnown": ""
+      },
+      "licenses": [
+        "spdx:MIT"
       ],
-      "plans": [
-        {
-          "guid": "developer-time",
-          "status": "active",
-          "name": "Developer Compensation",
-          "description": "Support to fund developers working on the AI assistant MVP over 6 months.",
-          "amount": 12000,
-          "currency": "USD",
-          "frequency": "one-time",
-          "channels": ["mainbank", "paypal"]
-        },
-        {
-          "guid": "infrastructure",
-          "status": "active",
-          "name": "Cloud Infrastructure",
-          "description": "Funding for cloud hosting, APIs, and push notification services.",
-          "amount": 1500,
-          "currency": "USD",
-          "frequency": "one-time",
-          "channels": ["mainbank", "paypal"]
-        },
-        {
-          "guid": "miscellaneous",
-          "status": "active",
-          "name": "Miscellaneous Expenses",
-          "description": "For testing, documentation, outreach, and app deployment expenses.",
-          "amount": 700,
-          "currency": "USD",
-          "frequency": "one-time",
-          "channels": ["mainbank", "paypal"]
-        }
-      ],
-      "history": [
-        {
-          "year": 2025,
-          "income": 0,
-          "expenses": 0,
-          "taxes": 0,
-          "currency": "USD",
-          "description": "Project just started, seeking initial funding."
-        }
+      "tags": [
+        "ai",
+        "personal-assistant",
+        "reminders",
+        "productivity",
+        "machine-learning",
+        "geolocation",
+        "task-management"
       ]
     }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "mainbank",
+        "type": "bank",
+        "address": "Account: 3518120000045 (Branch: Manjeshwaram, IFSC: CNRB0003518)",
+        "description": "Bank transfers accepted. Please reach out for details."
+      },
+      {
+        "guid": "phonepe",
+        "type": "UPI ID",
+        "address": "8088787427-2@ibl",
+        "description": "Support us through Phonepe donations."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "developer-time",
+        "status": "active",
+        "name": "Developer Compensation",
+        "description": "Support to fund developers working on the AI assistant MVP over 6 months.",
+        "amount": 12000,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": ["mainbank", "paypal"]
+      },
+      {
+        "guid": "infrastructure",
+        "status": "active",
+        "name": "Cloud Infrastructure",
+        "description": "Funding for cloud hosting, APIs, and push notification services.",
+        "amount": 1500,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": ["mainbank", "paypal"]
+      },
+      {
+        "guid": "miscellaneous",
+        "status": "active",
+        "name": "Miscellaneous Expenses",
+        "description": "For testing, documentation, outreach, and app deployment expenses.",
+        "amount": 700,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": ["mainbank", "paypal"]
+      }
+    ],
+    "history": [
+      {
+        "year": 2025,
+        "income": 0,
+        "expenses": 0,
+        "taxes": 0,
+        "currency": "USD",
+        "description": "Project just started, seeking initial funding."
+      }
+    ]
   }
-
-  
-
-
+}
