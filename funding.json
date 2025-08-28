@@ -2,7 +2,7 @@
   "version": "v1.0.0",
   "entity": {
     "type": "group",
-    "role": "President",
+    "role": "Contributer",
     "name": "GLUG (Gnu/Linux Users Group) PACE (P A College of Engineering)",
     "email": "glug@pace.edu.in",
     "phone": "",
@@ -98,5 +98,6 @@
     ]
   }
 }
+
 
 
