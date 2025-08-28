@@ -22,7 +22,7 @@
         "wellKnown": ""
       },
       "repositoryUrl": {
-        "url": "",
+        "url": "https://github.com/bilal-x/personal-ai-assistant",
         "wellKnown": ""
       },
       "licenses": [
@@ -98,3 +98,4 @@
     ]
   }
 }
+
